@@ -8,7 +8,7 @@ I am an experienced Backend Engineer, always ready to tackle any task. I adapt q
 - 💼 You can contact me on [LinkedIn](https://www.linkedin.com/in/severiano-v-90bbaa163)
 - ⚡ I love tacos 🌮, sushi 🍣 and legos 🧩!
 
-I also build games using Unity and C#.
+I also build games using Unity and C# 👾🎮
 
 ### Skills
 
